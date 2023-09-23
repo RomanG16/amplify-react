@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Aprendiendo React con AWS
+          Prueba y error
         </a>
       </header>
     </div>
